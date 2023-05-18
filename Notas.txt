@@ -1,0 +1,8 @@
+Preenchimento de transformador de potencia.
+Para realziar:
+* Qtd de linhas 516 * Qtd de colunas 124
+Total Realizado:
+* Qtd de linhas 516 - qtd de colunas 124
+
+Reator limitador de corrente: Não possui nenhum equipamento de segunda onda de tensão maior ou igual a 138Kv
+
